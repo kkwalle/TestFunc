@@ -1,15 +1,13 @@
 //
-//  ViewController.h
-//  SubTree
+//  TestB.h
+//  TestFunc
 //
 //  Created by kkwalle on 2018/3/12.
 //  Copyright © 2018年 kkwalle. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-@interface ViewController : UIViewController
-
-
+@interface TestB : NSObject
++ (void)TestB;
 @end
-
