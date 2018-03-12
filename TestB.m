@@ -11,5 +11,7 @@
 @implementation TestB
 + (void)TestB {
     NSLog(@"TestB");
+    
+    NSLog(@"修改了 TestB");
 }
 @end
